@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "pm": "pm2 start index.js -n wabot-server"
   },
   "keywords": [],
   "author": "",
