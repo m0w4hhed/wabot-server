@@ -7,7 +7,7 @@ const server  = new GraphQLServer({
     typeDefs, resolvers,
     // context: { pubsub }
 });
-const port = process.env.PORT || 80;
+const port = process.env.PORT || 3000;
 
 server.start({port: port}, ({ port }) => {
     console.log(`Server started, listening on port ${port} for incoming requests.`);
