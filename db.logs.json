@@ -2,123 +2,48 @@
   "logs": [
     {
       "from": "server",
-      "time": 1600931590,
+      "time": 1601098078,
       "desc": "Starting server"
     },
     {
       "from": "server",
-      "time": 1600931590,
+      "time": 1601098078,
       "desc": "[CONFIG] BruteMode: true"
     },
     {
       "from": "server",
-      "time": 1600931590,
+      "time": 1601098078,
       "desc": "[CONFIG] Timeout: 60000"
     },
     {
       "from": "server",
-      "time": 1600931590,
+      "time": 1601098078,
       "desc": "Authenticating server"
     },
     {
       "from": "server",
-      "time": 1600931596,
+      "time": 1601098093,
       "desc": "Whatsapp Authenticated!"
-    },
-    {
-      "from": "update-z",
-      "time": 1600931596,
-      "desc": "Starting update-z"
-    },
-    {
-      "from": "update-z",
-      "time": 1600931596,
-      "desc": "[CONFIG] BruteMode: true"
-    },
-    {
-      "from": "update-z",
-      "time": 1600931596,
-      "desc": "[CONFIG] Timeout: 60000"
-    },
-    {
-      "from": "update-z",
-      "time": 1600931596,
-      "desc": "Authenticating update-z"
-    },
-    {
-      "from": "update-z",
-      "time": 1600931603,
-      "desc": "Whatsapp Authenticated!"
-    },
-    {
-      "from": "update-z",
-      "time": 1600931605,
-      "desc": "Session: TIMEOUT"
-    },
-    {
-      "from": "update-z",
-      "time": 1600931606,
-      "desc": "Session: CONNECTED"
-    },
-    {
-      "from": "update-z",
-      "time": 1600931615,
-      "desc": "[RECV] Group Message in PUSAT"
-    },
-    {
-      "from": "update-z",
-      "time": 1600931615,
-      "desc": "[SEND] Message to Group Z 1"
-    },
-    {
-      "from": "update-z",
-      "time": 1600931692,
-      "desc": "[EXEC] #addToGroup from Dabiq"
     },
     {
       "from": "server",
-      "time": 1600931709,
+      "time": 1601098093,
+      "desc": "Cannot read property 'id' of undefined"
+    },
+    {
+      "from": "server",
+      "time": 1601098246,
       "desc": "Session: OPENING"
     },
     {
       "from": "server",
-      "time": 1600931709,
+      "time": 1601098247,
       "desc": "Session: PAIRING"
     },
     {
       "from": "server",
-      "time": 1600931711,
+      "time": 1601098248,
       "desc": "Session: CONNECTED"
-    },
-    {
-      "from": "update-z",
-      "time": 1600931720,
-      "desc": "[EXEC] #addToGroup from Dabiq"
-    },
-    {
-      "from": "update-z",
-      "time": 1600931729,
-      "desc": "[EXEC] #addAdmin from Dabiq"
-    },
-    {
-      "from": "update-z",
-      "time": 1600931748,
-      "desc": "[RECV] Group Message in PUSAT"
-    },
-    {
-      "from": "update-z",
-      "time": 1600931748,
-      "desc": "[SEND] Message to Group Z 1"
-    },
-    {
-      "from": "update-z",
-      "time": 1600931748,
-      "desc": "[SEND] Message to Z 2"
-    },
-    {
-      "from": "update-z",
-      "time": 1600936574,
-      "desc": "[EXEC] #addMod from Dabiq"
     }
   ]
 }

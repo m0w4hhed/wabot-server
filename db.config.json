@@ -2,81 +2,96 @@
   "sessions": [
     {
       "id": "server",
-      "lastLogin": 1600931596,
-      "phone": "6281227499851@c.us"
+      "phone": "6283176683240@c.us",
+      "lastLogin": 1601098093
     },
     {
-      "id": "update-z",
-      "phone": "6281229275755@c.us",
-      "lastLogin": 1600931603
+      "phone": "62895328038866@c.us",
+      "lastLogin": 1601015045,
+      "id": "update-a"
+    },
+    {
+      "phone": "6283861906659@c.us",
+      "id": "update-b",
+      "lastLogin": 1601015197
+    },
+    {
+      "id": "update-c",
+      "phone": "6283845234103@c.us",
+      "lastLogin": 1601015232
+    },
+    {
+      "id": "update-d",
+      "phone": "6285747267239@c.us",
+      "lastLogin": 1601015265
     }
   ],
   "admins": [
     {
-      "name": "admin",
-      "id": "6281333908590@c.us"
+      "id": "628112957525@c.us",
+      "name": "admin"
     }
   ],
   "groups": [
     {
-      "name": "N56",
+      "id": "628112957525-1548110972@g.us",
       "group": "C",
-      "id": "628112957525-1548110972@g.us"
+      "name": "N56"
     },
     {
+      "id": "628112957525-1548207884@g.us",
       "group": "C",
-      "name": "N57",
-      "id": "628112957525-1548207884@g.us"
+      "name": "N57"
     },
     {
-      "group": "C",
       "id": "628112957525-1548633213@g.us",
+      "group": "C",
       "name": "N58"
     },
     {
-      "name": "N59",
       "group": "C",
-      "id": "628112957525-1548633374@g.us"
+      "id": "628112957525-1548633374@g.us",
+      "name": "N59"
     },
     {
-      "group": "C",
       "id": "628112957525-1548633476@g.us",
-      "name": "N60"
+      "name": "N60",
+      "group": "C"
     },
     {
-      "id": "628112957525-1548735642@g.us",
       "group": "C",
+      "id": "628112957525-1548735642@g.us",
       "name": "N61"
     },
     {
-      "id": "628112957525-1548735820@g.us",
       "group": "C",
+      "id": "628112957525-1548735820@g.us",
       "name": "N62"
     },
     {
+      "group": "C",
       "name": "N63",
-      "id": "628112957525-1548735967@g.us",
-      "group": "C"
+      "id": "628112957525-1548735967@g.us"
     },
     {
-      "group": "C",
       "id": "628112957525-1548840679@g.us",
+      "group": "C",
       "name": "N64"
     },
     {
-      "group": "C",
       "id": "628112957525-1548900486@g.us",
-      "name": "N65"
-    },
-    {
-      "id": "628112957525-1551354150@g.us",
-      "name": "N66",
+      "name": "N65",
       "group": "C"
     },
     {
-      "id": "628112957525-1551354429@g.us",
+      "name": "N66",
       "group": "C",
-      "name": "N67"
+      "id": "628112957525-1551354150@g.us"
+    },
+    {
+      "id": "628112957525-1551354429@g.us",
+      "name": "N67",
+      "group": "C"
     },
     {
       "group": "C",
@@ -85,8 +100,8 @@
     },
     {
       "id": "628112957525-1551482147@g.us",
-      "name": "N69",
-      "group": "C"
+      "group": "C",
+      "name": "N69"
     },
     {
       "group": "C",
@@ -94,104 +109,104 @@
       "id": "628112957525-1551518551@g.us"
     },
     {
-      "id": "628112957525-1551682114@g.us",
       "name": "N71",
+      "id": "628112957525-1551682114@g.us",
       "group": "C"
     },
     {
-      "id": "628112957525-1554461326@g.us",
       "group": "C",
-      "name": "N72"
+      "name": "N72",
+      "id": "628112957525-1554461326@g.us"
     },
     {
+      "group": "D",
       "name": "N80",
-      "id": "628112957525-1554947290@g.us",
-      "group": "D"
+      "id": "628112957525-1554947290@g.us"
     },
     {
-      "group": "C",
+      "id": "628112957525-1554947404@g.us",
       "name": "N73",
-      "id": "628112957525-1554947404@g.us"
-    },
-    {
-      "name": "N74",
-      "group": "C",
-      "id": "628112957525-1554947523@g.us"
-    },
-    {
-      "id": "628112957525-1554947779@g.us",
-      "name": "N75",
       "group": "C"
     },
     {
-      "group": "D",
+      "group": "C",
+      "id": "628112957525-1554947523@g.us",
+      "name": "N74"
+    },
+    {
+      "name": "N75",
+      "group": "C",
+      "id": "628112957525-1554947779@g.us"
+    },
+    {
+      "name": "N81",
       "id": "628112957525-1554975296@g.us",
-      "name": "N81"
+      "group": "D"
     },
     {
-      "name": "N82",
       "id": "628112957525-1554975492@g.us",
-      "group": "D"
+      "group": "D",
+      "name": "N82"
     },
     {
-      "group": "D",
       "id": "628112957525-1555306871@g.us",
-      "name": "N83"
+      "name": "N83",
+      "group": "D"
     },
     {
-      "id": "628112957525-1555725503@g.us",
       "name": "N84",
-      "group": "D"
-    },
-    {
-      "id": "628112957525-1556083714@g.us",
-      "name": "N85",
-      "group": "D"
-    },
-    {
       "group": "D",
+      "id": "628112957525-1555725503@g.us"
+    },
+    {
+      "name": "N85",
+      "id": "628112957525-1556083714@g.us",
+      "group": "D"
+    },
+    {
       "id": "628112957525-1556106298@g.us",
+      "group": "D",
       "name": "N86"
     },
     {
-      "name": "N87",
       "id": "628112957525-1556158562@g.us",
+      "name": "N87",
       "group": "D"
     },
     {
-      "group": "D",
+      "id": "628112957525-1556182706@g.us",
       "name": "N88",
-      "id": "628112957525-1556182706@g.us"
+      "group": "D"
     },
     {
       "name": "N89",
-      "id": "628112957525-1556436530@g.us",
-      "group": "D"
+      "group": "D",
+      "id": "628112957525-1556436530@g.us"
     },
     {
-      "name": "N90",
+      "id": "628112957525-1557453159@g.us",
       "group": "D",
-      "id": "628112957525-1557453159@g.us"
+      "name": "N90"
     },
     {
+      "name": "N91",
       "group": "D",
-      "id": "628112957525-1557453342@g.us",
-      "name": "N91"
+      "id": "628112957525-1557453342@g.us"
     },
     {
       "id": "628112957525-1557468616@g.us",
-      "name": "N92",
-      "group": "D"
+      "group": "D",
+      "name": "N92"
     },
     {
-      "name": "N53",
       "group": "B",
+      "name": "N53",
       "id": "628112957525-1563338302@g.us"
     },
     {
       "group": "B",
-      "id": "628112957525-1563591572@g.us",
-      "name": "N25"
+      "name": "N25",
+      "id": "628112957525-1563591572@g.us"
     },
     {
       "name": "N32",
@@ -199,58 +214,133 @@
       "id": "628112957525-1563591704@g.us"
     },
     {
-      "group": "B",
       "id": "628112958525-1554551041@g.us",
-      "name": "N48"
+      "name": "N48",
+      "group": "B"
     },
     {
-      "id": "628112958525-1557545052@g.us",
       "name": "N93",
-      "group": "D"
+      "group": "D",
+      "id": "628112958525-1557545052@g.us"
+    },
+    {
+      "id": "628112958525-1557645525@g.us",
+      "group": "D",
+      "name": "N94"
     },
     {
       "group": "D",
-      "name": "N94",
-      "id": "628112958525-1557645525@g.us"
-    },
-    {
       "name": "N95",
-      "group": "D",
       "id": "628112958525-1557733067@g.us"
     },
     {
-      "id": "628112958525-1557815410@g.us",
       "group": "D",
-      "name": "N96"
+      "name": "N96",
+      "id": "628112958525-1557815410@g.us"
     },
     {
       "group": "D",
-      "name": "N97",
-      "id": "628112958525-1557993506@g.us"
+      "id": "628112958525-1557993506@g.us",
+      "name": "N97"
     },
     {
       "name": "N98",
-      "group": "D",
-      "id": "628112958525-1558161795@g.us"
+      "id": "628112958525-1558161795@g.us",
+      "group": "D"
     },
     {
-      "group": "D",
       "id": "628112958525-1558348535@g.us",
-      "name": "N99"
+      "name": "N99",
+      "group": "D"
     },
     {
+      "name": "N50",
       "id": "628112958525-1560672063@g.us",
-      "group": "B",
-      "name": "N50"
+      "group": "B"
     },
     {
-      "group": "B",
+      "name": "N51",
       "id": "628112958525-1561276273@g.us",
-      "name": "N51"
+      "group": "B"
     },
     {
       "id": "628112958525-1561276591@g.us",
       "name": "N52",
+      "group": "B"
+    },
+    {
+      "id": "6281226691537-1599705652@g.us",
+      "group": "B",
+      "name": "Nabiilahstore F 2"
+    },
+    {
+      "id": "6281226691537-1599792019@g.us",
+      "group": "B",
+      "name": "Nabiilahstore F 3 "
+    },
+    {
+      "id": "6281226691537-1599869346@g.us",
+      "group": "B",
+      "name": "Nabiilahstore F 4"
+    },
+    {
+      "group": "B",
+      "name": "Nabiilahstore F 5",
+      "id": "6281226691537-1600050797@g.us"
+    },
+    {
+      "id": "6281226691537-1600138873@g.us",
+      "name": "Nabiilahstore F 6",
+      "group": "B"
+    },
+    {
+      "name": "Nabiilah onlineshop M2",
+      "id": "6281226691623-1599794032@g.us",
+      "group": "B"
+    },
+    {
+      "id": "6281226691623-1599880326@g.us",
+      "name": "Nabiilah Onlineshop M3",
+      "group": "B"
+    },
+    {
+      "name": "Nabiilah onlineshop M4",
+      "group": "B",
+      "id": "6281226691623-1600037487@g.us"
+    },
+    {
+      "name": "Nabiilah onlineshop M5",
+      "group": "B",
+      "id": "6281226691623-1600144558@g.us"
+    },
+    {
+      "id": "6281226691623-1600236944@g.us",
+      "name": "Nabiilah onlineshop M6",
+      "group": "B"
+    },
+    {
+      "name": "Nabiilah onlineshop M7",
+      "id": "6281226691623-1600300362@g.us",
+      "group": "B"
+    },
+    {
+      "id": "6281226691623-1600657627@g.us",
+      "name": "Nabiilah Onlineshop M8",
+      "group": "B"
+    },
+    {
+      "name": "Nabiilah OnlineShop M9",
+      "group": "B",
+      "id": "6281226691623-1600657685@g.us"
+    },
+    {
+      "id": "6281226691623-1600657736@g.us",
+      "name": "Nabiilah Onlineshop M10",
+      "group": "B"
+    },
+    {
+      "id": "6281233737083-1599620371@g.us",
+      "name": "Nabiilah Onlineshop M1",
       "group": "B"
     },
     {
@@ -259,13 +349,13 @@
       "name": "N20"
     },
     {
-      "id": "6281818797276-1525190880@g.us",
       "name": "N24",
+      "id": "6281818797276-1525190880@g.us",
       "group": "B"
     },
     {
-      "group": "B",
       "name": "N27",
+      "group": "B",
       "id": "6281818797276-1525191571@g.us"
     },
     {
@@ -274,79 +364,79 @@
       "group": "A"
     },
     {
+      "name": "N21",
       "id": "6281818797276-1526888705@g.us",
-      "group": "A",
-      "name": "N21"
+      "group": "A"
     },
     {
+      "name": "N1",
       "group": "A",
-      "id": "6282242783494-1490344525@g.us",
-      "name": "N1"
+      "id": "6282242783494-1490344525@g.us"
     },
     {
+      "id": "6282242783494-1492439069@g.us",
       "group": "A",
-      "name": "N2",
-      "id": "6282242783494-1492439069@g.us"
+      "name": "N2"
     },
     {
-      "group": "A",
       "name": "N3",
+      "group": "A",
       "id": "6282242783494-1493045200@g.us"
     },
     {
-      "id": "6282242783494-1493814536@g.us",
       "name": "N4",
-      "group": "A"
+      "group": "A",
+      "id": "6282242783494-1493814536@g.us"
     },
     {
-      "name": "N5",
       "group": "A",
+      "name": "N5",
       "id": "6282242783494-1493908152@g.us"
     },
     {
-      "id": "6282242783494-1494433556@g.us",
       "group": "A",
-      "name": "N6"
+      "name": "N6",
+      "id": "6282242783494-1494433556@g.us"
     },
     {
-      "name": "N7",
       "id": "6282242783494-1494770833@g.us",
+      "name": "N7",
       "group": "A"
     },
     {
-      "id": "6282242783494-1495032735@g.us",
       "name": "N8",
-      "group": "A"
+      "group": "A",
+      "id": "6282242783494-1495032735@g.us"
+    },
+    {
+      "id": "6282242783494-1495208097@g.us",
+      "group": "A",
+      "name": "N9"
     },
     {
       "group": "A",
-      "name": "N9",
-      "id": "6282242783494-1495208097@g.us"
-    },
-    {
       "name": "N10",
-      "group": "A",
       "id": "6282242783494-1495705642@g.us"
     },
     {
-      "group": "A",
       "name": "N11",
+      "group": "A",
       "id": "6282242783494-1499304363@g.us"
     },
     {
-      "group": "A",
       "name": "N12",
-      "id": "6282242783494-1499305861@g.us"
+      "id": "6282242783494-1499305861@g.us",
+      "group": "A"
     },
     {
       "group": "A",
-      "id": "6282242783494-1507719161@g.us",
-      "name": "N13"
+      "name": "N13",
+      "id": "6282242783494-1507719161@g.us"
     },
     {
-      "id": "6282242783494-1508168453@g.us",
       "name": "N38",
-      "group": "A"
+      "group": "A",
+      "id": "6282242783494-1508168453@g.us"
     },
     {
       "group": "A",
@@ -354,39 +444,39 @@
       "name": "N34"
     },
     {
+      "name": "N35",
       "id": "6282242783494-1519454327@g.us",
-      "group": "A",
-      "name": "N35"
+      "group": "A"
     },
     {
+      "name": "N26",
       "group": "B",
-      "id": "6282242783494-1520823580@g.us",
-      "name": "N26"
+      "id": "6282242783494-1520823580@g.us"
     },
     {
-      "name": "N28",
       "id": "6282242783494-1520826580@g.us",
+      "name": "N28",
       "group": "B"
     },
     {
+      "name": "N29",
       "group": "B",
-      "id": "6282242783494-1520991939@g.us",
-      "name": "N29"
+      "id": "6282242783494-1520991939@g.us"
     },
     {
-      "group": "B",
+      "id": "6282242783494-1521879606@g.us",
       "name": "N22",
-      "id": "6282242783494-1521879606@g.us"
+      "group": "B"
     },
     {
-      "group": "B",
+      "id": "6282242783494-1522898026@g.us",
       "name": "N23",
-      "id": "6282242783494-1522898026@g.us"
+      "group": "B"
     },
     {
+      "name": "N15",
       "group": "A",
-      "id": "6282242783494-1526392882@g.us",
-      "name": "N15"
+      "id": "6282242783494-1526392882@g.us"
     },
     {
       "id": "6282242783494-1527485057@g.us",
@@ -394,14 +484,14 @@
       "group": "A"
     },
     {
-      "group": "B",
       "name": "N31",
+      "group": "B",
       "id": "6282242783494-1528006903@g.us"
     },
     {
-      "name": "N17",
       "group": "A",
-      "id": "6282242783494-1528012178@g.us"
+      "id": "6282242783494-1528012178@g.us",
+      "name": "N17"
     },
     {
       "id": "6282242783494-1530289963@g.us",
@@ -409,14 +499,14 @@
       "group": "A"
     },
     {
+      "id": "6282242783494-1530290400@g.us",
       "group": "A",
-      "name": "N19",
-      "id": "6282242783494-1530290400@g.us"
+      "name": "N19"
     },
     {
-      "name": "N30",
       "id": "6282242783494-1531709196@g.us",
-      "group": "B"
+      "group": "B",
+      "name": "N30"
     },
     {
       "id": "6282242783494-1531992731@g.us",
@@ -425,58 +515,58 @@
     },
     {
       "group": "A",
-      "id": "6282242783494-1532408079@g.us",
-      "name": "N41"
+      "name": "N41",
+      "id": "6282242783494-1532408079@g.us"
     },
     {
       "name": "N42",
-      "group": "A",
-      "id": "6282242783494-1532683415@g.us"
+      "id": "6282242783494-1532683415@g.us",
+      "group": "A"
     },
     {
       "name": "N45",
-      "id": "6282242783494-1533799539@g.us",
-      "group": "B"
-    },
-    {
-      "group": "A",
-      "id": "6282242783494-1533980290@g.us",
-      "name": "N37"
-    },
-    {
-      "name": "N49",
       "group": "B",
-      "id": "6282242783494-1534040570@g.us"
+      "id": "6282242783494-1533799539@g.us"
     },
     {
-      "id": "6282242783494-1534414329@g.us",
+      "name": "N37",
+      "group": "A",
+      "id": "6282242783494-1533980290@g.us"
+    },
+    {
+      "group": "B",
+      "id": "6282242783494-1534040570@g.us",
+      "name": "N49"
+    },
+    {
+      "group": "B",
       "name": "N47",
+      "id": "6282242783494-1534414329@g.us"
+    },
+    {
+      "id": "6282242783494-1534898992@g.us",
+      "name": "N44",
       "group": "B"
     },
     {
-      "group": "B",
-      "name": "N44",
-      "id": "6282242783494-1534898992@g.us"
-    },
-    {
-      "group": "B",
+      "id": "6282242783494-1535343118@g.us",
       "name": "N43",
-      "id": "6282242783494-1535343118@g.us"
+      "group": "B"
     },
     {
-      "group": "A",
       "id": "6282242783494-1535709047@g.us",
+      "group": "A",
       "name": "N40"
     },
     {
-      "id": "6282242783494-1536398593@g.us",
+      "group": "B",
       "name": "N46",
-      "group": "B"
+      "id": "6282242783494-1536398593@g.us"
     },
     {
+      "name": "N39",
       "id": "6282242783494-1537917385@g.us",
-      "group": "A",
-      "name": "N39"
+      "group": "A"
     },
     {
       "name": "N76",
@@ -485,86 +575,261 @@
     },
     {
       "group": "C",
-      "id": "6282243949090-1584079345@g.us",
-      "name": "N77"
+      "name": "N77",
+      "id": "6282243949090-1584079345@g.us"
     },
     {
-      "id": "6282243949090-1584079396@g.us",
-      "name": "N78",
-      "group": "C"
-    },
-    {
-      "id": "6282243949090-1584079642@g.us",
       "group": "C",
-      "name": "N79"
+      "id": "6282243949090-1584079396@g.us",
+      "name": "N78"
     },
     {
-      "id": "6282332766566-1518238354@g.us",
+      "name": "N79",
+      "group": "C",
+      "id": "6282243949090-1584079642@g.us"
+    },
+    {
       "group": "A",
-      "name": "N36"
+      "name": "N36",
+      "id": "6282332766566-1518238354@g.us"
     },
     {
-      "name": "N100",
-      "group": "D",
-      "id": "6285641319206-1578458275@g.us"
+      "name": "Nabiolahstore F 7",
+      "group": "B",
+      "id": "6283176684510-1600218935@g.us"
     },
     {
-      "name": "N101",
-      "id": "6285641319206-1578458667@g.us",
+      "group": "B",
+      "name": "Nabiilahstore F 8",
+      "id": "6283176684510-1600310188@g.us"
+    },
+    {
+      "group": "B",
+      "id": "6283176684510-1600398738@g.us",
+      "name": "Nabiilahstore F 9"
+    },
+    {
+      "name": "Nabiilahstore F 10",
+      "group": "B",
+      "id": "6283198173347-1600656795@g.us"
+    },
+    {
+      "group": "B",
+      "id": "6285641318355-1599619929@g.us",
+      "name": "Nabiilahstore F 1"
+    },
+    {
+      "id": "6285641319205-1599620346@g.us",
+      "name": "NabiilahStore H 1",
       "group": "D"
     },
     {
-      "group": "B",
+      "id": "6285641319205-1599880480@g.us",
+      "group": "D",
+      "name": "NabiilahStore H-2"
+    },
+    {
+      "group": "D",
+      "name": "Nabiilahstore H-3",
+      "id": "6285641319205-1600314686@g.us"
+    },
+    {
+      "group": "D",
+      "id": "6285641319205-1600322574@g.us",
+      "name": "Nabiilahstore H-4"
+    },
+    {
+      "name": "Nabiilahstore H-5",
+      "id": "6285641319205-1600322637@g.us",
+      "group": "D"
+    },
+    {
+      "id": "6285641319205-1600322667@g.us",
+      "group": "D",
+      "name": "Nabiilahstore H-6"
+    },
+    {
+      "name": "Nabiilahstore H-7",
+      "group": "D",
+      "id": "6285641319205-1600322700@g.us"
+    },
+    {
+      "name": "Nabiilahstore H-8",
+      "id": "6285641319205-1600322721@g.us",
+      "group": "D"
+    },
+    {
+      "group": "D",
+      "id": "6285641319205-1600322741@g.us",
+      "name": "Nabiilahstore H-9"
+    },
+    {
+      "id": "6285641319205-1600322767@g.us",
+      "group": "D",
+      "name": "Nabiilahstore H-10"
+    },
+    {
+      "id": "6285641319206-1578458275@g.us",
+      "name": "N100",
+      "group": "D"
+    },
+    {
+      "id": "6285641319206-1578458667@g.us",
+      "name": "N101",
+      "group": "D"
+    },
+    {
+      "id": "6285641319210-1599620045@g.us",
+      "name": "Nabiilahstore Wati.W.1",
+      "group": "C"
+    },
+    {
+      "group": "C",
+      "name": "Nabiilahstore Wati.W.2",
+      "id": "6285641319210-1599713197@g.us"
+    },
+    {
+      "name": "Nabiilahstore Wati.W.3",
+      "group": "C",
+      "id": "6285641319210-1600052854@g.us"
+    },
+    {
+      "group": "C",
+      "id": "6285641319210-1600143748@g.us",
+      "name": "Nabiilahstore Wati.W.4"
+    },
+    {
+      "group": "C",
+      "id": "6285641319210-1600144636@g.us",
+      "name": "Nabiilahstore Wati.W.5"
+    },
+    {
+      "id": "6285641319210-1600316276@g.us",
+      "group": "C",
+      "name": "Nabiilahstore  Wati.W.6"
+    },
+    {
+      "id": "6285641319210-1600316655@g.us",
+      "name": "Nabiilahstore Wati.W.7",
+      "group": "C"
+    },
+    {
+      "id": "6285641319210-1600744818@g.us",
+      "name": "Nabiilahstore Wati.W.8",
+      "group": "C"
+    },
+    {
+      "id": "6285641319210-1600744991@g.us",
+      "group": "C",
+      "name": "Nabiilahstore Wati.W.9"
+    },
+    {
+      "group": "C",
+      "id": "6285641319210-1600745410@g.us",
+      "name": "Nabiilahstore Wati.W.10"
+    },
+    {
+      "name": "Nabiilaahstore adm Nia 1",
+      "group": "C",
+      "id": "6285701784836-1599620247@g.us"
+    },
+    {
+      "group": "C",
+      "id": "6285701784836-1599763953@g.us",
+      "name": "Nabiilaahstore adm Nia 2"
+    },
+    {
+      "name": "Nabiilaahstore adm Nia 3",
+      "id": "6285701784836-1599805981@g.us",
+      "group": "C"
+    },
+    {
+      "name": "Nabiilahstore adm Nia 4",
+      "id": "6285701784836-1600051249@g.us",
+      "group": "C"
+    },
+    {
+      "name": "Nabiilaahstore adm Nia 5",
+      "group": "C",
+      "id": "6285701784836-1600143898@g.us"
+    },
+    {
+      "group": "C",
+      "name": "Nabiilaahstore adm Nia 6",
+      "id": "6285701784836-1600314673@g.us"
+    },
+    {
+      "group": "C",
+      "name": "Nabiilaahstore Adm Nia 7",
+      "id": "6285701784836-1600394404@g.us"
+    },
+    {
+      "group": "C",
+      "id": "6285701784836-1600662134@g.us",
+      "name": "Nabiilaahstore Adm Nia 8"
+    },
+    {
+      "id": "6285701784836-1600738861@g.us",
+      "name": "Nabiilaahstore Adm Nia 9",
+      "group": "C"
+    },
+    {
+      "id": "6285701784836-1600831190@g.us",
+      "group": "C",
+      "name": "Nabiilaahstore Adm Nia 10"
+    },
+    {
       "name": "N54",
+      "group": "B",
       "id": "6285747267189-1575513494@g.us"
     },
     {
+      "name": "N55",
       "id": "6285747267189-1583106751@g.us",
-      "group": "B",
-      "name": "N55"
+      "group": "B"
     }
   ],
   "commands": [
     {
-      "public": true,
-      "active": true,
-      "cmd": "#getId",
-      "info": "Menampilkan chat/group ID"
-    },
-    {
-      "cmd": "#stopServer",
-      "active": true,
-      "info": "Menghentikan bot server",
-      "public": false
-    },
-    {
-      "cmd": "#getMod",
-      "info": "Menampilkan daftar moderator",
+      "info": "Menjadikan bot sebagai admin group",
       "public": false,
+      "cmd": "#addAdmin",
       "active": true
     },
     {
-      "active": true,
-      "public": false,
       "cmd": "#addMod",
-      "info": "Menambahkan moderator"
+      "info": "Menambahkan moderator",
+      "active": true,
+      "public": false
     },
     {
-      "public": false,
       "cmd": "#addToGroup",
+      "info": "Menambahkan bot ke kelompok group",
       "active": true,
-      "info": "Menambahkan kontak ke kelompok group"
+      "public": false
     },
     {
       "cmd": "#getBots",
       "active": true,
-      "public": false,
-      "info": "Menampilkan bot aktif"
+      "info": "Menampilkan bot aktif",
+      "public": false
     },
     {
-      "info": "Memjalankan bot baru",
-      "cmd": "#startBot",
       "active": true,
+      "cmd": "#getId",
+      "public": true,
+      "info": "Menampilkan chat/group ID"
+    },
+    {
+      "public": false,
+      "active": true,
+      "cmd": "#getMod",
+      "info": "Menampilkan daftar moderator"
+    },
+    {
+      "cmd": "#help",
+      "active": true,
+      "info": "Menampilkan panduan ini",
       "public": false
     },
     {
@@ -574,52 +839,52 @@
       "cmd": "#restartServer"
     },
     {
+      "cmd": "#setGroup",
       "active": true,
       "info": "Mengubah kelompok group",
-      "public": false,
-      "cmd": "#setGroup"
+      "public": true
     },
     {
-      "cmd": "#help",
-      "info": "Menampilkan panduan ini",
-      "public": false,
-      "active": true
-    },
-    {
-      "public": false,
-      "info": "Menambahkan group pusat",
       "cmd": "#setPusat",
-      "active": true
+      "public": false,
+      "active": true,
+      "info": "Menambahkan group pusat"
     },
     {
-      "info": "Menjadikan kontak sebagai admin group",
-      "cmd": "#addAdmin",
+      "cmd": "#startBot",
       "active": true,
+      "info": "Memjalankan bot baru",
       "public": false
+    },
+    {
+      "info": "Menghentikan bot server",
+      "public": false,
+      "cmd": "#stopServer",
+      "active": true
     }
   ],
   "timeout": 60000,
   "bruteMode": true,
   "perentGroups": [
     {
-      "group": "A",
+      "name": "PUSAT A",
       "id": "6282243949080-1591856203@g.us",
-      "name": "PUSAT A"
+      "group": "A"
     },
     {
-      "name": "PUSAT B",
       "group": "B",
+      "name": "PUSAT B",
       "id": "6282243949080-1591856302@g.us"
     },
     {
-      "group": "C",
+      "name": "PUSAT C",
       "id": "6282243949080-1591856387@g.us",
-      "name": "PUSAT C"
+      "group": "C"
     },
     {
-      "name": "PUSAT D",
+      "id": "6282243949080-1591856452@g.us",
       "group": "D",
-      "id": "6282243949080-1591856452@g.us"
+      "name": "PUSAT D"
     }
   ]
 }

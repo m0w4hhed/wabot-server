@@ -51,18 +51,22 @@ const resolvers = {
         },
         async stopBot(_, args) {
             const { bot_name, delete_bot } = args;
+            if (delete_bot) {
+                try {
+                    await setDatas([{
+                        path: `config/server-config/bot-session/${bot_name}`,
+                        delete: true
+                    }]);
+                    if (await fs.pathExists(`./tokens/${bot_name}.data.json`)) {
+                        fs.remove(`./tokens/${bot_name}.data.json`);
+                    }
+                } catch (err) {
+                    return 'ERROR';
+                }
+            }
             if (WA[bot_name]) {
                 const message = delete_bot ? 'deleted' : 'stopped';
                 try {
-                    if (delete_bot) {
-                        await setDatas([{
-                            path: `config/server-config/bot-session/${bot_name}`,
-                            delete: true
-                        }]);
-                        if (await fs.pathExists(`./tokens/${bot_name}.data.json`)) {
-                            fs.remove(`./tokens/${bot_name}.data.json`);
-                        }
-                    }
                     await WA[bot_name].close();
                     delete WA[bot_name];
                     PUBSUB.publish(PUBTYPE.GET_STATE, { state: Object.keys(WA) });
