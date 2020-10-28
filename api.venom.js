@@ -310,7 +310,10 @@ function sendQR(base64Qr, to, botName) {
 }
 
 const createBot = (botName, from) => {
-    if (botName==='server') dbLogs.get('logs').remove().write();
+    if (botName==='server') {
+        dbLogs.get('logs').remove().write();
+        respawnBots(BRUTE_MODE);
+    }
     log(botName, `Starting ${botName}`);
     log(botName, `[CONFIG] BruteMode: ${BRUTE_MODE}`);
     log(botName, `[CONFIG] Timeout: ${TIMEOUT}`);
@@ -369,7 +372,6 @@ const createBot = (botName, from) => {
                         WA[botName].useHere();
                     }
                 });
-                if (botName === 'server') respawnBots(BRUTE_MODE);
                 if (from) {
                     WA.server.sendText(from, `Bot *${botName}* berhasil dijalankan!`);
                 }

@@ -51,6 +51,7 @@ const resolvers = {
         },
         async stopBot(_, args) {
             const { bot_name, delete_bot } = args;
+            const message = delete_bot ? 'deleted' : 'stopped';
             if (delete_bot) {
                 try {
                     await setDatas([{
@@ -65,7 +66,6 @@ const resolvers = {
                 }
             }
             if (WA[bot_name]) {
-                const message = delete_bot ? 'deleted' : 'stopped';
                 try {
                     await WA[bot_name].close();
                     delete WA[bot_name];
