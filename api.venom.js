@@ -309,7 +309,7 @@ function sendQR(base64Qr, to, botName) {
     }
 }
 
-const createBot = (botName, from) => {
+const createBot = async (botName, from) => {
     if (botName==='server') {
         dbLogs.get('logs').remove().write();
         respawnBots(BRUTE_MODE);
@@ -393,6 +393,7 @@ const respawnBots = (bruteMode) => {
         }
     }
     const createAllBotsAsync = async () => {
+        console.log('NOT BRUTE START');
         await asyncForEach(sessions, async (s) => {
             if (!WA[s.id]) {
                 await createBot(s.id, adminContact.id);
@@ -400,6 +401,7 @@ const respawnBots = (bruteMode) => {
         });
     };
     const createAllBot = () => {
+        console.log('BRUTE START');
         sessions.forEach((s) => {
             if (!WA[s.id]) {
                 createBot(s.id, adminContact.id);

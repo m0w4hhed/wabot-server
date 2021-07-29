@@ -1,5 +1,5 @@
 const {
-    createBot, log, dbLogs,
+    createBot, log,
     WA, PUBTYPE, PUBSUB, dbConfigs
 } = require('./api.venom');
 const fs = require('fs-extra');

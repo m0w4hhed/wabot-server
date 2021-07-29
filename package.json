@@ -11,12 +11,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "firebase": "^7.24.0",
+    "firebase": "^8.1.2",
     "fs-extra": "^9.0.1",
     "graphql-yoga": "^1.18.3",
     "lowdb": "^1.0.0",
-    "rxfire": "^3.13.5",
-    "rxjs": "^6.6.2",
-    "venom-bot": "^2.0.18"
+    "rxfire": "^4.0.0",
+    "rxjs": "^6.6.3",
+    "venom-bot": "^2.1.1"
   }
 }
